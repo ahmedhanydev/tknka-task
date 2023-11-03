@@ -236,8 +236,8 @@ function App() {
         </div>
       </div>
 
-      <footer className="flex justify-between items-center  md:mt-3 flex-col-reverse md:flex-row gap-2">
-        <div className="flex items-center gap-2">
+      <footer className="flex justify-between items-center mt-2  md:mb-0 mb-[-20px] md:mt-3 flex-col-reverse md:flex-row gap-2">
+        <div className="flex items-center  gap-2">
           <span>لتقنية المعلومات </span>
           <img src="/assets/images/footer.png" alt="" />
           <span>تطوير و تشغيل </span>

@@ -73,7 +73,7 @@ function App() {
           </div>
         </nav>
         <div className=" flex  items-center flex-col gap-3 justify-between md:min-h-screen md:bg-[url('./assets/images/background.png')] bg-no-repeat  bg-center  px-0	w-full p-4 md:p-0 ">
-          <form className="flex  flex-col pb-8 pe-8 ps-3 mx-[-30px] pt-8 shadow-[0_0_10px_0_rgba(8,143,196,0.25)] md:px-12 md:pb-12  md:mt-6 md:pt-16 h-[500px] md:h-[600px]  w-[107%]   md:w-[400px]">
+          <form className="flex  flex-col pb-8 px-8  pt-8 shadow-[0_0_10px_0_rgba(8,143,196,0.25)] md:px-12 md:pb-12  md:mt-6 md:pt-16 h-[500px] md:h-[600px]  w-[107%]   md:w-[400px]">
             <h1 className="md:mb-16 mb-10 text-center text-[27px] font-bold text-[#088FC4] md:text-[40px]">
               تسجيل الدخول
             </h1>

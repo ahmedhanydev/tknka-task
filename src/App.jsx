@@ -9,7 +9,7 @@ function App() {
   const [errorEmailMessage, setErrorEmailMessage] = useState(false);
   const [showErrorMessage, setShowErrorMessage] = useState(false);
   const [openCardVideo, setOpenCardVideo] = useState(false);
-  // console.log(showErrorMessage);
+
   const togglePasswordVisibility = () => {
     setPasswordVisible(!passwordVisible);
   };
